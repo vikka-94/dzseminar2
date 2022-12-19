@@ -1,0 +1,15 @@
+C:\Users\Виктория\Desktop\rep\dz13\bin\Debug\net6.0\dz13.exe
+C:\Users\Виктория\Desktop\rep\dz13\bin\Debug\net6.0\dz13.deps.json
+C:\Users\Виктория\Desktop\rep\dz13\bin\Debug\net6.0\dz13.runtimeconfig.json
+C:\Users\Виктория\Desktop\rep\dz13\bin\Debug\net6.0\dz13.dll
+C:\Users\Виктория\Desktop\rep\dz13\bin\Debug\net6.0\dz13.pdb
+C:\Users\Виктория\Desktop\rep\dz13\obj\Debug\net6.0\dz13.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\rep\dz13\obj\Debug\net6.0\dz13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\rep\dz13\obj\Debug\net6.0\dz13.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\rep\dz13\obj\Debug\net6.0\dz13.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\rep\dz13\obj\Debug\net6.0\dz13.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\rep\dz13\obj\Debug\net6.0\dz13.dll
+C:\Users\Виктория\Desktop\rep\dz13\obj\Debug\net6.0\refint\dz13.dll
+C:\Users\Виктория\Desktop\rep\dz13\obj\Debug\net6.0\dz13.pdb
+C:\Users\Виктория\Desktop\rep\dz13\obj\Debug\net6.0\dz13.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\rep\dz13\obj\Debug\net6.0\ref\dz13.dll
